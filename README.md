@@ -9,8 +9,8 @@
 * D6: [affine transformation 概念與實作](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day006_affine_HW.ipynb)
 * D7: [perspective transformation 概念與實作](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day007_perspective_HW.txt)
 * D8: [Filter 操作 (Sobel edge detect, Gaussian Blur)](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day008_sobel_gaussian_blur_HW.ipynb)
-* D9: [SIFT 介紹與實作 (feature extractor)]
-* D10: [SIFT 其他應用 (keypoint matching)]
+* D9: [SIFT 介紹與實作 (feature extractor)-sample](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/sample/Day009_Sample.ipynb)
+* D10: [SIFT 其他應用 (keypoint matching)-sample](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/sample/Day010_Sample.ipynb)
 
 ## 2. 電腦視覺深度學習基礎
 * D11: [CNN分類器架構：卷積層](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day011_CNN-%E8%A8%88%E7%AE%97%E5%8F%83%E6%95%B8%E9%87%8F_HW.ipynb)
