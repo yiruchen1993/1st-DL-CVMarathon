@@ -6,22 +6,22 @@
 * D3: [顏色相關的預處理 (改變亮度, 色差)](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day003_color_spave_op_HW.ipynb)
 * D4: [以圖片為例做矩陣操作 (翻轉, 縮放, 平移)](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day004_geometric_transform_HW.ipynb)
 * D5: [透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色)](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day005_draw_HW.ipynb)
-* D6: [affine transformation 概念與實作]
-* D7: [perspective transformation 概念與實作]
-* D8: [Filter 操作 (Sobel edge detect, Gaussian Blur)]
+* D6: [affine transformation 概念與實作](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day006_affine_HW.ipynb)
+* D7: [perspective transformation 概念與實作](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day007_perspective_HW.txt)
+* D8: [Filter 操作 (Sobel edge detect, Gaussian Blur)](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day008_sobel_gaussian_blur_HW.ipynb)
 * D9: [SIFT 介紹與實作 (feature extractor)]
 * D10: [SIFT 其他應用 (keypoint matching)]
 
 ## 2. 電腦視覺深度學習基礎
-* D11: [CNN分類器架構：卷積層]
-* D12: [CNN分類器架構：步長、填充]
-* D13: [CNN分類器架構：池化層、全連接層]
-* D14: [CNN分類器架構：Batch Normalization]
-* D15: [訓練一個CNN分類器：Cifar10為例]
-* D16: [如何使用Data Augmentation]
+* D11: [CNN分類器架構：卷積層](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day011_CNN-%E8%A8%88%E7%AE%97%E5%8F%83%E6%95%B8%E9%87%8F_HW.ipynb)
+* D12: [CNN分類器架構：步長、填充](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day012_Strides%20and%20Padding_HW.ipynb)
+* D13: [CNN分類器架構：池化層、全連接層](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day013_%E6%B1%A0%E5%8C%96%E3%80%81%E5%85%A8%E9%80%A3%E6%8E%A5%E5%B1%A4_HW.ipynb)
+* D14: [CNN分類器架構：Batch Normalization](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day014_Batch%20Normalization_HW.ipynb)
+* D15: [訓練一個CNN分類器：Cifar10為例](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day015_Cifar_HW.ipynb)
+* D16: [如何使用Data Augmentation](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day016_Image%20Augmentation_HW.ipynb)
 * D17: [AlexNet]
-* D18: [VGG16 and 19]
-* D19: [InceptionV1-V3]
+* D18: [VGG16 and 19](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day018_Vgg16_HW.ipynb)
+* D19: [InceptionV1-V3](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day019_Inception_HW.ipynb)
 * D20: [ResNetV1-V2、InceptionV4、Inception-ResNet]
 * D21: [Transfer learning]
 * D22: [Breaking Captchas with a CNN]
