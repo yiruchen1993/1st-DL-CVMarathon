@@ -22,34 +22,34 @@
 * D17: [AlexNet]
 * D18: [VGG16 and 19](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day018_Vgg16_HW.ipynb)
 * D19: [InceptionV1-V3](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day019_Inception_HW.ipynb)
-* D20: [ResNetV1-V2、InceptionV4、Inception-ResNet]
-* D21: [Transfer learning]
-* D22: [Breaking Captchas with a CNN]
+* D20: [ResNetV1-V2、InceptionV4、Inception-ResNet](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day020_Classic%20CNN-ResNet%E3%80%81InceptionV4%E3%80%81Inception-ResNet_HW.ipynb)
+* D21: [Transfer learning](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day021_Transfer_Learning_HW.ipynb)
+* D22: [Breaking Captchas with a CNN](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day022_Captcha_HW.ipynb)
 
 ## 3. CNN 應用案例學習
 * D23: [Object detection原理]
 * D24: [Object detection基本介紹、演進]
-* D25: [Region Proposal、IOU概念]
-* D26: [RPN架構介紹]
-* D27: [Bounding Box Regression原理]
-* D28: [Non-Maximum Suppression (NMS)原理]
+* D25: [Region Proposal、IOU概念](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day025_IOU_HW.ipynb)
+* D26: [RPN架構介紹](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day026_RPN_HW.ipynb)
+* D27: [Bounding Box Regression原理](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day027_BBOX%20Regression_HW.ipynb)
+* D28: [Non-Maximum Suppression (NMS)原理](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day028_NMS_HW.ipynb)
 * D29-31: [程式導讀、實作]
-* D32: [YOLO 簡介及算法理解]
-* D33: [YOLO 細節理解 - 網路輸出的後處理]
-* D34: [YOLO 細節理解 - 損失函數]
+* D32: [YOLO 簡介及算法理解](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day32_yolo_prediction_HW.ipynb)
+* D33: [YOLO 細節理解 - 網路輸出的後處理](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day33_YOLO%20%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3%20-%20%E7%B6%B2%E8%B7%AF%E8%BC%B8%E5%87%BA%E7%9A%84%E5%BE%8C%E8%99%95%E7%90%86_HW.ipynb)
+* D34: [YOLO 細節理解 - 損失函數](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day34.YOLO%20%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3%20-%20%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8_HW.ipynb)
 * D35: [YOLO 細節理解 - 損失函數程式碼解讀]
-* D36: [YOLO 細節理解 - 網路架構]
+* D36: [YOLO 細節理解 - 網路架構](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day36.YOLO%20%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3-%E7%B6%B2%E7%B5%A1%E6%9E%B6%E6%A7%8B_HW.ipynb)
 * D37: [YOLO 細節理解 - 網路架構程式碼解讀]
 * D38: [YOLO 演進]
-* D39: [使用 YOLOv3 偵測圖片及影片中的物件]
-* D40: [更快的檢測模型 - tiny YOLOv3]
-* D41: [訓練 YOLOv3]
+* D39: [使用 YOLOv3 偵測圖片及影片中的物件](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day39_yolov3_HW.ipynb)
+* D40: [更快的檢測模型 - tiny YOLOv3](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day40_yolov3_tiny_HW.ipynb)
+* D41: [訓練 YOLOv3](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day41_train_sample.ipynb)
 
 ## 4. 電腦視覺深度學習實戰
-* D42: [人臉關鍵點-資料結構簡介]
-* D43: [人臉關鍵點-檢測網路架構]
-* D44: [訓練人臉關鍵點檢測網路]
-* D45: [人臉關鍵點應用]
-* D46: [Mobilenet]
-* D47: [Ｍobilenetv2]
+* D42: [人臉關鍵點-資料結構簡介](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day42_explore_facial_keypoint_data_HW.ipynb)
+* D43: [人臉關鍵點-檢測網路架構](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day43_define_network_HW.ipynb)
+* D44: [訓練人臉關鍵點檢測網路](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day44_train_facial_keypoint_HW.ipynb)
+* D45: [人臉關鍵點應用](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day45_facial_keypoint_application.ipynb)
+* D46: [Mobilenet](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day046_MobileNet_HW.ipynb)
+* D47: [Ｍobilenetv2](https://github.com/yiruchen1993/1st-DL-CVMarathon/blob/feature/daily_learning/Day47_MobileNetv2_HW.ipynb)
 * D48: [Tensorflow Object Detection API]
